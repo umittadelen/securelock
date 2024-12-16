@@ -15,9 +15,9 @@ while True:
 > ''')
 
     if answer == '1':
-        os.system("pip install chromaconsole -U")
+        os.system("pip install securelock -U")
     elif answer == '2':
-        os.system("pip uninstall chromaconsole")
+        os.system("pip uninstall securelock")
     elif answer == '3':
         if os.path.isdir('dist'):
             shutil.rmtree('dist')
