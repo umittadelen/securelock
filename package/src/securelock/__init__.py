@@ -1,0 +1,1 @@
+from .secure_lock import lock, unlock
