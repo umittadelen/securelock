@@ -47,7 +47,7 @@ Unlocked Text: This is a secret message!
 - **Brute-Force Resistance**: The implementation is designed to make brute-forcing computationally expensive.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](./package/LICENSE.txt) for details.
 
 ## Contributing
 Feel free to submit issues or feature requests. Contributions are welcome!
